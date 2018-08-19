@@ -1,0 +1,10 @@
+C:\Users\Büşra\source\repos\InterfaceforDMS\InterfaceforDMS\bin\x86\Debug\InterfaceforDMS.exe.config
+C:\Users\Büşra\source\repos\InterfaceforDMS\InterfaceforDMS\bin\x86\Debug\InterfaceforDMS.exe
+C:\Users\Büşra\source\repos\InterfaceforDMS\InterfaceforDMS\bin\x86\Debug\InterfaceforDMS.pdb
+C:\Users\Büşra\source\repos\InterfaceforDMS\InterfaceforDMS\obj\x86\Debug\InterfaceforDMS.Form1.resources
+C:\Users\Büşra\source\repos\InterfaceforDMS\InterfaceforDMS\obj\x86\Debug\InterfaceforDMS.Properties.Resources.resources
+C:\Users\Büşra\source\repos\InterfaceforDMS\InterfaceforDMS\obj\x86\Debug\InterfaceforDMS.csproj.GenerateResource.cache
+C:\Users\Büşra\source\repos\InterfaceforDMS\InterfaceforDMS\obj\x86\Debug\InterfaceforDMS.csproj.CoreCompileInputs.cache
+C:\Users\Büşra\source\repos\InterfaceforDMS\InterfaceforDMS\obj\x86\Debug\InterfaceforDMS.exe
+C:\Users\Büşra\source\repos\InterfaceforDMS\InterfaceforDMS\obj\x86\Debug\InterfaceforDMS.pdb
+C:\Users\Büşra\source\repos\InterfaceforDMS\InterfaceforDMS\obj\x86\Debug\InterfaceforDMS.csprojAssemblyReference.cache
