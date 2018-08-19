@@ -1,2 +1,2 @@
 # InterfaceforDMS
-## Atik otomotiv firmasının kullandığı bayi yönetim sistemi için daha işlevsel bir "Müşteri Arama" arayüzü.
+Atik otomotiv firmasının kullandığı bayi yönetim sistemi için daha işlevsel bir "Müşteri Arama" arayüzü.
